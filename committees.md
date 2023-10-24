@@ -58,3 +58,41 @@ subtitle:
 
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Program Committee </h1>
 
+<table>
+    <tr>
+        <td>Mrinmaya Sachan</td>
+        <td>Elliott Ash</td>
+        <td>Bjarne Steffen</td>
+        <td>Vilem Zhouhar</td>
+    </tr>
+    <tr>
+        <td>Benjamin Arold</td>
+        <td>Claudia Marangon</td>
+        <td>Christoph Gössmann</td>
+        <td>Andreas Opedal</td>
+    </tr>
+    <tr>
+        <td>Ronny Patz</td>
+        <td>Michael Schlichtkrull</td>
+        <td>Mathias Kraus</td>
+        <td>Mubashara Akhtar</td>
+    </tr>
+    <tr>
+        <td>Alexander Hoyle</td>
+        <td>Zhijing Jin</td>
+        <td>Saadullah Amin</td>
+        <td>Jonathan Schaber</td>
+    </tr>
+    <tr>
+        <td>Janis Goldzycher</td>
+        <td>Gerold Schneider</td>
+        <td>Karolina Naranjo</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cesare Ilharco</td>
+        <td>Kalyan Dutia</td>
+        <td>Yiming Qian</td>
+        <td></td>
+    </tr>
+</table>
