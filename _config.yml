@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Climate-NLP 2024
+title: ClimateNLP 2024
 
 # Your name to show in the footer
 author: Jingwei Ni
@@ -20,9 +20,10 @@ author: Jingwei Ni
 ###############################################
 
 navbar-links:
-  COMMITEES: "committes"
+  COMMITTEES: "committees"
   PROGRAM: "program"
-  SUBMISSION GUIDE: "submissionguide"
+#  SUBMISSION GUIDE: "submissionguide"
+  PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
