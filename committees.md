@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Organising Committee
+title: 
 subtitle: 
 ---
-
+<h1 style="text-align:center; margin-bottom:20pt; !important"> Organising Committee </h1>
 <div class="container">
   <div class="row">
     <div class="col-sm">
