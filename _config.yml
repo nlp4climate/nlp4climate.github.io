@@ -23,7 +23,7 @@ footerinfo:  The website modified from larel-workshop.github.io
 navbar-links:
   COMMITTEES: "committees"
   PROGRAM: "program"
-#  SUBMISSION GUIDE: "submissionguide"
+  SUBMISSION GUIDE: "submissionguide"
   PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
