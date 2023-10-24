@@ -6,7 +6,6 @@ subtitle:
 
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Submission Guide </h1>
 
-## Submission Instructions
 
 Submission should be made on **OpenReview**.
 
@@ -16,7 +15,7 @@ We welcome various types of papers including scientific papers, position papers,
 
 All accepted papers will be available on the workshop website, but no formal workshop proceedings will be published.
 
-## Key Dates
+<h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
 | Event                      | Date                |
 |----------------------------|---------------------|
@@ -28,7 +27,7 @@ All accepted papers will be available on the workshop website, but no formal wor
 
 All deadlines are specified in AoE (Anywhere on Earth).
 
-## FAQ
+<h3 style='margin-bottom: 10pt;'>FAQ</h3>
 
 **Q:** Can we submit a paper that will also be submitted to ICLR 2024?  
 **A:** Yes
