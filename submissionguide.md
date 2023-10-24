@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Submission Guide
+title: 
 subtitle: 
 ---
 
-# Submission Guide
+<h1 style="text-align:center; margin-bottom:20pt; !important"> Submission Guide </h1>
 
 ## Submission Instructions
 
