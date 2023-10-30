@@ -59,9 +59,21 @@ This workshop is sponsored by:
 
 <h3 style='margin-bottom: 10pt;'>Description</h3>
 
-<p>Language is one of the most impressive human accomplishments and is believed to be the core to our ability to learn, teach, reason and interact with others [1; 2; 3]. Learning many complex tasks or skills would be significantly more challenging without relying on language to communicate, and language is believed to have a structuring impact on human thought [4; 5; 51]. Written language has also given humans the ability to store information and insights about the world and pass it across generations and continents. Yet, the ability of current state-of-the art reinforcement learning agents to understand natural language is limited.</p>
+<p>In the past few decades, the importance of addressing climate change has been fully adopted by the scientific community. At the same time, most policymakers and regulators around the world and the economy start to catch up. Climate change leads to global, national, and local discussions, spanning various platforms and involving all sectors of society. However, there is only limited yet growing amounts of work at the intersection of climate change and NLP methods. This workshop's primary objective is to provide a platform for researchers and practitioners (and policymakers and other stakeholders) interested in contributing to the intersection of NLP and climate change. The workshop aims to fill the gap in the existing literature and shed light on the unique challenges, opportunities, and potential methods for applying NLP techniques in helping to combat climate change -- and explore other potential applications in this domain.</p>
 
-<p> Practically speaking, the ability to integrate and learn from language, in addition to rewards and demonstrations, has the potential to improve the generalization, scope and sample efficiency of agents [6]. For example, agents that are capable of transferring domain knowledge from textual corpora might be able to much more efficiently explore in a given environment or to perform zero or few shot learning in novel environments [7]. Furthermore, many real-world tasks, including personal assistants and general household robots, require agents to process language by design, whether to enable interaction with humans, or simply use existing interfaces [8; 9].
+<p>The workshop's primary objective is to provide a platform for researchers, practitioners, policymakers, and other stakeholders interested in addressing the challenges of climate change and sustainable finance risks with the help of NLP applications. The workshop aims to fill the gap in the existing literature and shed light on the unique challenges, opportunities, and potential solutions for applying NLP techniques to address climate and sustainability risks for sustainable finance, sustainable economies, and climate policies. The workshop covers various topics. Amongst others, a focus will be on NLP-based information extraction from written reports and documents of various sources, using large language models for analyzing legal, policy, and corporate documents and extracting relevant information to identify patterns, trends, and strategies, supporting for example, the mapping and characterization of the world’s most polluting assets. 
+</p>
+
+<p>
+We are very open to various sorts of submissions at the intersection of Climate Change and NLP. Some specific topics we will include in our call are detection and analysis of Environmental Claims; QA-systems for Climate Change related Information; Long Document Analysis; Stance Detection; climate change denial classification; Narratives around Climate Change; Automated Fact Checking of climate change related claims, and named entity mapping to asset-level data for spatial finance.
+</p>
+
+<p>
+Some more broad topics include using machine translation for translating policies or any information related to climate to underrepresented languages to inform local communities better; Analysis of sentiment and specificity of corporate activities related to climate change; Knowledge integration in assets localization models; studies which involve climate risk, spatial finance, sustainable finance, and NLP; identification of greenwashing indicators identified through NLP methods; and automated assessment of physical or financial damage due to natural calamities using, e.g., news data or government sources. Furthermore, we are also interested in position and overview papers, new datasets, and new methods on existing training and benchmarking datasets. Lastly, we encourage the dialogue and submissions for climate-aware NLP and energy-efficient models.
+</p>
+
+<p>
+A core goal of the goals of the workshop is to bring together people from Academia, NGOs, and Industry. Thus, we welcome contributions from NGOs and industry -- and also contributions showcasing work in which NLP methods could assist.
 </p>
 
 <p>To support this field of research, we are interested in fostering the discussion around:</p>
@@ -79,11 +91,8 @@ Since the last edition of LaReL at ICML 2020 [45; 46], we have seen a wealth of 
 
 Some example questions:
 <ul>
-<li>How can knowledge stored in a pretrained language model be transferred to an RL policy ?</li>
-<li>How can we update a language model from feedback in an environment ?</li>
-<li>How can we build open-ended environments for language-using agents ?</li>
-<li>Can general language agents be trained from imitation learning alone or is feedback from an environment required ?</li>
-<li>How can we specify reward or collect data for language agents at scale ?</li>
+<li>How can NLP help address Climate Change</li>
+<li>How can we update a language model to be helpful in this ocntext ?</li>
 </ul>
 
 
@@ -92,57 +101,7 @@ Some example questions:
 
 <h3 style='margin-bottom: 10pt;'>References</h3>
 <div class='references' style='font-size:9pt'>
-<p> [1] The development of categorization in the second year and its relation to other cognitive and linguistic developments, Gopnik and Meltzoff, 1987; <br>
+<p> [1] Environmental Claim Detection, Stammbach et al., 2023; <br>
 [2] Core knowledge, Spelke and Kinzler, 2007; <br>
-[3] Cognitive effects of language on human navigation, Schusterman et al., 2011; <br>
-[4] Words as invitations to form categories: Evidence from 12-to 13-month-old infants, Waxman, 1995; <br>
-[5] Linguistically modulated perception and cognition: The label-feedback hypothesis, Lupyan, 2012; <br>
-[6] A survey of Reinforcement Learning informed by natural Language. Luketina et al 2019; <br>
-[7] Grounding Language to Entities and Dynamics for Generalization in Reinforcement Learning, Hanjie et al., 2021; <br>
-[8] Vision and language navigation: Interpreting visually-grounded navigation instructions in real environments, Anderson et al., 2017; <br>
-[9] Robots that use language, Tellex et al., 2020; <br>
-[10] Reinforcement Learning for mapping instructions to actions, Branavan et al., 2009;  <br>
-[11] Understanding natural language commands for robotic navigation and mobile manipulation, Tellex et al, 2011; <br>
-[12] Learning to interpret natural language navigation instructions from observation, Chen et al., 2011; <br>
-[13] Natural language communication with robots, Bisk et al., 2016; <br>
-[14] Listen, Attend, and Walk: neural mapping of navigational instructions to action sequences, Mei et al., 2016; <br>
-[15] Grounded language learning in a simulated 3d world, Hermann et al., 2017 <br>
-[16] Imitating interactive intelligence, Anderson et al., 2020 <br>
-[17] Language conditioned imitation learning over unstructured data, Lynch and Sermanet, 2020 <br>
-[18] Creating Multimodal Interactive Agents with Imitation and Self-Supervised Learning, DeepMind Interactive Agents Team, 2021 <br>
-[19] Modular Multitask Reinforcement Learning with Policy Sketches, Andreas et al 2016 <br>
-[20] Language as an Abstraction for Hierarchical Deep Reinforcement Learning, Jiang et al., 2019; <br>
-[21] ELLA: Exploration through Learned Language Abstraction, Mirchandani et al., 2021; <br>
-[22] Improving Intrinsic Exploration with Language Abstractions, Mu et al., 2021; <br>
-[23] Grounding Language for Transfer in Deep Reinforcement Learning, Narasimhan et al., 2017 <br>
-[24] RTFM: Generalising to Novel Environment Dynamics via Reading, Zhong et al., 2020 <br>
-[25] Learning to Understand Goal Specifications by Modelling Reward, Bahdanau et al., 2018; <br>
-[26] Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation, Wang et al., 2018 <br>
-[27] Using Natural Language for Reward Shaping in Reinforcement Learning, Goyal et al. 2019; <br>
-[28] Learning to Win by Reading Manuals in a Monte-Carlo Framework, Branavan et al. 2012; <br>
-[29] What can you do with a rock? Affordance extraction via word embeddings, Fulda et al. 2017; <br>
-[30] Keep CALM and explore: language models for action generation in text-based games, Yao et al. 2021; <br>
-[31] Embodied Question Answering, Das et al., 2018;  <br>
-[32] TextWorld: A Learning Environment for Text-based Games, Côté et al., 2018; <br>
-[33] Interactive fiction games, a colossal adventure, Hausknecht et al. 2019; <br>
-[34] BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning, Chevalier-Boisvert et al. 2019; <br>
-[35] ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks, Sridhar et al., 2019; <br>
-[36] Habitat 2.0: Training Home Assistants to Rearrange their Habitat, Szot et al., 2021; <br>
-[37] Grounded language learning fast and slow, Hill et al., 2020; <br>
-[38] Tell me why ! - Explanations support learning of relational and causal structure, Lampinen et al., 2021; <br>
-[39] Skill induction and planning with latent language, Sharma et al. 2021, <br>
-[40] Leveraging Language to Learn Program Abstractions and Search Heuristics, Wong et al., 2021; <br>
-[41] Alfworld: aligning text and embodied environments for interactive learning, Sridhar et al., 2021; <br>
-[42] Language as a cognitive tool to imagine goals in curiosity-driven exploration, Colas et al., 2021; <br>
-[43] Thought and Language, Vygotsky, 1934; <br>
-[44] Language and Thought, Carruthers at al. 1998; <br>
-[45] https://larel-ws.github.io/  <br>
-[46] https://icml.cc/virtual/2020/workshop/5748 <br>
-[47] Language models are few-shot learners, Brown et al., 2020; <br>
-[48] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Raffel et al., 2019; <br>
-[49] Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents, Huang et al., 2022; <br>
-[50] Pre-Trained Language Models for Interactive Decision-Making, Li et al., 2022; <br>
-[51] Evidence from an emerging sign language reveals that language supports spatial cognition, Pyers et al., 2010;<br>
-[52] Vygotskian Autotelic Artificial Intelligence: Language and Culture Internalization for Human-Like AI, Colas et al., 2022</p>
 
 </div>
