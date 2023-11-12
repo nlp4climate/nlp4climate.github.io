@@ -19,7 +19,7 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://lawecon.ethz.ch/group/scientific-team/stammbach.html">Dominik Stammbach</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
     </div>
   </div>
-    <div class="row">
+  <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/julia.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.smithschool.ox.ac.uk/person/dr-julia-bingler">Julia Bingler</a> <br> <p class='speaker-affiliation'> University of Oxford</p></div>
@@ -32,12 +32,11 @@ subtitle:
       <img class="organiser-img" src='/assets/img/kalyan.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.kalyan.link/">Jingwei Ni</a> <br> <p class='speaker-affiliation'>ETH Zurich</p></div>
     </div>
+	<div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/markus.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.bf.uzh.ch/en/people/professor/leippold.html">Markus Leippold</a> <br> <p class='speaker-affiliation'> University of Zurich</p></div>
     </div>
-  </div>
-	<div class="row">
     <div class="col-sm">
     	<img class="organiser-img" src='/assets/img/neetu.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://neetu-kushwaha.github.io/">Neetu Kushwaha</a> <br> <p class='speaker-affiliation'>  The Alan Turing Institute</p></div>
@@ -46,16 +45,15 @@ subtitle:
       <img class="organiser-img" src='/assets/img/saeida.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=DiXsRwIAAAAJ">Saeid A. Vaghefi</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
     </div>
-<div class="col-sm">
+  </div>
+  <div class="row">
+    <div class="col-sm">
       <img class="organiser-img" src='/assets/img/tobias.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/tobias-schimanski-964077182/">Tobias Schimanski</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
     </div>
-<div class="col-sm">
+    <div class="col-sm">
       <img class="organiser-img" src='/assets/img/veruskam.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/veruska-muccione/?originalSubdomain=ch">Veruska Muccione</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
-    </div>
-    <div class="col-sm">
-      <img src=''>
     </div>
   </div>
 </div>
