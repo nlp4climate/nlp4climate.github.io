@@ -88,14 +88,8 @@
     </div>
   </div>
 </div>
-
-{% if page.header-extra %}
-  {% for file in page.header-extra %}
-    {% include {{ file }} %}
-  {% endfor %}
-{% endif %}
-
 </header>
+
 
 {% else %}
 <div class="intro-header"></div>
