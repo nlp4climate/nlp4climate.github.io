@@ -55,6 +55,9 @@ subtitle:
       <img class="organiser-img" src='/assets/img/veruskam.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/veruska-muccione/?originalSubdomain=ch">Veruska Muccione</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
     </div>
+    <div class="col-sm">
+      <img src=''>
+    </div>
   </div>
 </div>
 
