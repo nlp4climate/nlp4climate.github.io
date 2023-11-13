@@ -30,7 +30,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/kalyan.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.kalyan.link/">Kalyan Dutia</a> <br> <p class='speaker-affiliation'>ETH Zurich</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.kalyan.link/">Kalyan Dutia</a> <br> <p class='speaker-affiliation'>Climate Policy Radar</p></div>
     </div>
 	<div class="row">
     <div class="col-sm">
