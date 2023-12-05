@@ -16,7 +16,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/dominik.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://lawecon.ethz.ch/group/scientific-team/stammbach.html">Dominik Stammbach</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://dominik-stammbach.github.io">Dominik Stammbach</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
     </div>
   </div>
   <div class="row">
