@@ -17,10 +17,13 @@ NLP has the potential to support faster and scaleable climate mitigation and ada
 
 <h2>More Info</h2>
 For more information, please refer to the workshop website:
-https://nlp4climate.github.io/
+[https://nlp4climate.github.io/](https://nlp4climate.github.io/)
+
 
 <h2>Submission Site</h2>
-https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP
+[https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP)
+
+
 We invite long and short papers from Academia, Industry, NGOs and other stakeholders.
 
 <h2>Topics of Interest</h2>
@@ -39,8 +42,4 @@ We highlight some topics we think might be of interest. However, this is not mea
 - Analysis of climate-related corporate disclosures with NLP
 
 Please contact the organizers if you have any questions, or if you're interested in presenting accepted ACL 2024 findings papers in our workshop!
-
-Looking forward to seeing you in Bangkok,
-The organizers of ClimateNLP 2024
-
 
