@@ -10,9 +10,10 @@ subtitle:
 
 This workshop is dedicated to explore the intersection of Natural Language Processing (NLP) and climate change. The workshop's aim is to discuss how NLP methods can be incorporated in climate change science and climate change action.
 
-The importance of addressing climate change has been fully adopted by the scientific community. Climate change leads to global, national, and local discussions, spanning various platforms and involving all sectors of society. However, there is only limited amounts of work at the intersection of climate change and NLP methods. This workshop’s objective is to fill this gap and to provide a platform for researchers and practitioners (and policymakers and other stakeholders) keen on contributing to the intersection of NLP and climate change. And the workshop aims to shed light on the unique challenges and opportunities for applying NLP techniques to combat climate change.
+The importance of addressing climate change has been fully adopted by the scientific community. Climate change is reflected to global, national, and local political discussions, corporate reporting and all sectors of society. Although there is a vast amount of textual data and challenges around climate change, there is only limited amounts of work addressing these with NLP methods. Therefore, this workshop’s objective is to fill this gap and to provide a platform for researchers and practitioners (as well as policymakers and other stakeholders) keen on contributing to the intersection of NLP and climate change. 
 
-We believe NLP has the potential to support faster and scaleable climate mitigation and adaptation action considerably. The workshop aims to collect insights gained so far, and foster discussions about applications of NLP methods, including domain experts from other fields in Academia, NGOs, and Industry. Also, we try to understand each others’ needs, and want to foster a discussion about the current state of this intersection and where this intersection should be headed.
+The workshop aims to shed light on these unique challenges and opportunities for applying NLP techniques to combat climate change. We believe NLP has the potential to support faster and scaleable climate mitigation and adaptation action considerably, and ClimateNLP provides a platform to foster discussions about NLP applications in this domain.
+
 
 <h2>More Info</h2>
 For more information, please refer to the workshop website:
