@@ -15,6 +15,6 @@ Additionally, we invited four speakers actively working at the intersection clim
 <div class="organiser-name" style="text-align: center;"> Gaku Mori<p class='speaker-affiliation'> Gaku Morio is a researcher at Hitachi America, Ltd., and also a Visiting Scholar at Stanford University. Over the past few years, his focus has been on argument mining and its applications. Recently, his interests include the development of datasets, tasks, and models within the context of sustainability, especially with a focus on the basis of greenwashing detection.</p></div>
  
 
-<img class="organiser-img" src='assets/keynotes/gaku.jpeg'>
+<img class="organiser-img" src='assets/keynotes/david_thulke.jpeg'>
 <div class="organiser-name" style="text-align: center;"> David Thulke<p class='speaker-affiliation'> David Thulke is a PhD candidate in the Machine Learning and Human Language Technology group at RWTH Aachen University and a language processing scientist at AppTek. His research focuses on advancing foundation models and their application to different natural language understanding and generation tasks. Notably, he focuses on increasing the factuality of language generation models among others using retrieval augmented generation. He is one of the main scientists involved in the ClimateGPT project, which developed domain-specific large language models synthesizing interdisciplinary research on climate change.</p></div>
  
