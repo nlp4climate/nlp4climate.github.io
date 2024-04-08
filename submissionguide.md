@@ -8,7 +8,7 @@ subtitle:
 
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Submission Guide </h1>
 
-Papers must follow the ACL format and conform to the ACL 2024 Submission Guidelines. Paper submission has to be done through openreview: ACL 2024 Workshop. 
+Papers must follow the ACL format and conform to the ACL 2024 Submission Guidelines. Paper submission has to be done through openreview.
 
 We invite authors to submit long and short papers with unpublished, original work. Submissions will be reviewed in a double-blind peer review process, thus it is important to only submit anonymzed papers! Authors of accepted papers will be given a platform to present their work at the workshop, either as a talk or a poster. All accepted papers, which have been submitted as arxival, will be published in the workshop proceedings (proceedings from previous years can be found in the ACL Anthology). 
 
