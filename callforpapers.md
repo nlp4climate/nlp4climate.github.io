@@ -24,7 +24,7 @@ For more information, please refer to the workshop website:
 [https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP)
 
 
-We invite long and short papers from Academia, Industry, NGOs and other stakeholders.
+We invite long and short papers from Academia, Industry, NGOs and other stakeholders. See the submission guide for more information!
 
 <h2>Topics of Interest</h2>
 We highlight some topics we think might be of interest. However, this is not meant to be an exhaustive list, and we welcome submissions covering other topics as well! A more detailed list and references can be found on the workshop website.
