@@ -29,10 +29,6 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
   </thead>
   <tbody>
      <tr>
-      <td>Perhaps Abstract Submission Deadline, TBD</td>
-      <td>May 10, 2024 (23:59 UTC-12)</td>
-    </tr>
-     <tr>
       <td>Paper Submission Deadline</td>
       <td>May 17, 2024 (23:59 UTC-12)</td>
     </tr>
