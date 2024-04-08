@@ -18,6 +18,8 @@ We invite authors to submit long and short papers with unpublished, original wor
 
 <h2 id="dates">Important Dates</h2>
 
+Most of these dates (apart from the workshop date) are preliminary, and might be still subject to change. But there's a high chance that these will stay the same!
+
  <table class="table table-striped">
   <thead>
     <tr>
