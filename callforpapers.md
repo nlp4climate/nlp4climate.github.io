@@ -8,6 +8,8 @@ subtitle:
 
 <h2>Scope</h2>
 
+<b>Deadline extended to May 24th AOE!!</b>
+
 This workshop is dedicated to explore the intersection of Natural Language Processing (NLP) and climate change. The workshop's aim is to discuss how NLP methods can be incorporated in climate change science and climate change action.
 
 The importance of addressing climate change has been fully adopted by the scientific community. Climate change is reflected to global, national, and local political discussions, corporate reporting and all sectors of society. Although there is a vast amount of textual data and challenges around climate change, there is only limited amounts of work addressing these with NLP methods. Therefore, this workshop’s objective is to fill this gap and to provide a platform for researchers and practitioners (as well as policymakers and other stakeholders) keen on contributing to the intersection of NLP and climate change. 
