@@ -63,4 +63,38 @@ subtitle:
 
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Program Committee </h1>
 
-To be announced
+<ul>
+	<li>Sivaji Bandyopadhyay</li>
+	<li>Tianyi Wu</li>
+	<li>Yiming Qian</li>
+	<li>Junling Wang</li>
+	<li>Sahand Sabour</li>
+	<li>Cesar Ilharco</li>
+	<li>Ananya Sai</li>
+	<li>Yifan Hou</li>
+	<li>Malte Toetzke</li>
+	<li>Kathryn Davidson</li>
+	<li>Chen Huang</li>
+	<li>Jakob Lochner</li>
+	<li>C Vanlalnunpuia</li>
+	<li>Thoudam Doren Singh</li>
+	<li>Gaku Morio</li>
+	<li>Nick Sorros</li>
+	<li>Matyas Juhasz</li>
+	<li>Tanise Ceron</li>
+	<li>Benjamin Arold</li>
+	<li>Harrison Pim</li>
+	<li>Max Callaghan</li>
+	<li>Laura Vásquez-Rodríguez</li>
+	<li>Jonas Rieger</li>
+	<li>Azmine Wasi</li>
+	<li>Ronny Patz</li>
+	<li>Zhijing Jin</li>
+	<li>Ruiran Su</li>
+	<li>Siddharth Goyal</li>
+	<li>Nikita Ostrovsky</li>
+	<li>Ayush Jain</li>
+	<li>Dana Moukheiber</li>
+	<li>Ruiqi Li</li>
+	<li>Lexing Xie</li>
+</ul>
