@@ -17,4 +17,121 @@ Additionally, we invited four speakers actively working at the intersection clim
 
 <img class="organiser-img" src='/assets/keynotes/david_thulke.jpg'>
 <div class="organiser-name" style="text-align: center;"> David Thulke<p class='speaker-affiliation'> David Thulke is a PhD candidate in the Machine Learning and Human Language Technology group at RWTH Aachen University and a language processing scientist at AppTek. His research focuses on advancing foundation models and their application to different natural language understanding and generation tasks. Notably, he focuses on increasing the factuality of language generation models among others using retrieval augmented generation. He is one of the main scientists involved in the ClimateGPT project, which developed domain-specific large language models synthesizing interdisciplinary research on climate change.</p></div>
- 
+
+ <div class='program-table' style='font-size: 10pt; width:100%;'>
+<table>
+  <tr>
+    <td>9:00 am</td>
+    <td>Opening Remarks</td>
+  </tr>
+  <tr>
+    <td>9:05 am</td>
+    <td><b>Session 1</b></td>
+  </tr>
+  <tr>
+    <td>9:05 am</td>
+    <td>Keynote Speech by Angel Hsu</td>
+  </tr>
+  <tr>
+    <td>9:30 am</td>
+    <td>Oral Presentation 1</td>
+  </tr>
+  <tr>
+    <td>9:30 am</td>
+    <td>Paper 7</td>
+  </tr>
+  <tr>
+    <td>9:40 am</td>
+    <td>Paper 25</td>
+  </tr>
+  <tr>
+    <td>9:50 am</td>
+    <td>Paper 11</td>
+  </tr>
+  <tr>
+    <td>10:00 am</td>
+    <td>Poster Session 1</td>
+  </tr>
+  <tr>
+    <td>10:45 am</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>11:00 am</td>
+    <td><b>Session 2</b></td>
+  </tr>
+  <tr>
+    <td>11:00 am</td>
+    <td>Session 2 Introduction</td>
+  </tr>
+  <tr>
+    <td>11:05 am</td>
+    <td>Keynote Speech by Gaku Morio</td>
+  </tr>
+  <tr>
+    <td>11:30 am</td>
+    <td>Panel Discussion - Future of ClimateNLP</td>
+  </tr>
+  <tr style='color:darkgray;'>
+    <td>12:00 pm</td>
+    <td>Lunch Break</td>
+  </tr>
+  <tr>
+    <td>1:30 pm</td>
+    <td><b>Session 3</b></td>
+  </tr>
+  <tr>
+    <td>1:30 pm</td>
+    <td>Session 3 Introduction</td>
+  </tr>
+  <tr>
+    <td>1:35 pm</td>
+    <td>Keynote Speech by David Thulke</td>
+  </tr>
+  <tr>
+    <td>2:00 pm</td>
+    <td>Oral Presentation 2</td>
+  </tr>
+  <tr>
+    <td>2:00 pm</td>
+    <td>Paper 14</td>
+  </tr>
+  <tr>
+    <td>2:10 pm</td>
+    <td>Paper 10</td>
+  </tr>
+  <tr>
+    <td>2:20 pm</td>
+    <td>Paper 6</td>
+  </tr>
+  <tr>
+    <td>2:30 pm</td>
+    <td>Question-Guided Open Discussion</td>
+  </tr>
+  <tr>
+    <td>3:00 pm</td>
+    <td>Poster Session 2</td>
+  </tr>
+  <tr>
+    <td>3:45 pm</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>4:00 pm</td>
+    <td><b>Session 4</b></td>
+  </tr>
+  <tr>
+    <td>4:00 pm</td>
+    <td>Session 4 Introduction</td>
+  </tr>
+  <tr>
+    <td>4:05 pm</td>
+    <td>Keynote Speech by Markus Leippold</td>
+  </tr>
+  <tr>
+    <td>4:30 pm</td>
+    <td>Open Discussion & Closing Remarks</td>
+  </tr>
+</table>
+
+</div>
