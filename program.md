@@ -38,15 +38,15 @@ Additionally, we invited four speakers actively working at the intersection clim
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Paper 7</td>
+    <td>Generative Debunking of Climate Misinformation</td>
   </tr>
   <tr>
     <td>9:40 am</td>
-    <td>Paper 25</td>
+    <td>Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs</td>
   </tr>
   <tr>
     <td>9:50 am</td>
-    <td>Paper 11</td>
+    <td>Envisioning NLP for intercultural climate communication</td>
   </tr>
   <tr>
     <td>10:00 am</td>
@@ -94,15 +94,15 @@ Additionally, we invited four speakers actively working at the intersection clim
   </tr>
   <tr>
     <td>2:00 pm</td>
-    <td>Paper 14</td>
+    <td>LEAF: Predicting the Environmental Impact of Food Products based on their Name</td>
   </tr>
   <tr>
     <td>2:10 pm</td>
-    <td>Paper 10</td>
+    <td>Using LLMs to Build a Database of Climate Extreme Impacts</td>
   </tr>
   <tr>
     <td>2:20 pm</td>
-    <td>Paper 6</td>
+    <td>My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture</td>
   </tr>
   <tr>
     <td>2:30 pm</td>
