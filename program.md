@@ -38,7 +38,7 @@ Additionally, we invited four speakers actively working at the intersection clim
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>- Generative Debunking of Climate Misinformation</td>
+    <td>- My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture</td>
   </tr>
   <tr>
     <td>9:40 am</td>
@@ -102,7 +102,7 @@ Additionally, we invited four speakers actively working at the intersection clim
   </tr>
   <tr>
     <td>2:20 pm</td>
-    <td>- My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture</td>
+    <td>- Generative Debunking of Climate Misinformation</td>
   </tr>
   <tr>
     <td>2:30 pm</td>
