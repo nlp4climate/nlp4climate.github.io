@@ -27,6 +27,7 @@ navbar-links:
   SUBMISSION GUIDE: "submissionguide"
   WORKSHOPS:
     - ACL 2024: "climatenlp2024"
+    
 #  PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -57,10 +58,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nlp4climatechange@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
-#  github: daattali
+  rss: true  
   twitter: Climate_NLP
+
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
