@@ -7,8 +7,37 @@ subtitle:
 <h1 style="text-align:center; margin-bottom:20pt; !important"> ClimateNLP 2024 </h1>
 
 
- ClimateNLP 2024 happens at ACL 2024, Bangkok. [[Proceeding]](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP#tab-accept)
+ ClimateNLP 2024 happens at ACL 2024, Bangkok, where 20 high-quality submissions were presented. See [[Openreview]](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP#tab-accept) and [[Proceeding]](https://aclanthology.org/volumes/2024.climatenlp-1/).
 
+<h2> Timeline </h2>
+<div class="center">
+    <table border="1" cellpadding="10" cellspacing="0" style="margin: auto; width: 70%;">
+        <tr>
+            <th>Event</th>
+            <th>Date</th>
+        </tr>
+        <tr>
+            <td>Submissions Open</td>
+            <td>February 5th, 2024</td>
+        </tr>
+        <tr>
+            <td><strong>Submission Deadline</strong></td>
+            <td>May 24, 2024</td>
+        </tr>
+        <tr>
+            <td>Acceptance Notification</td>
+            <td>June 17, 2024</td>
+        </tr>
+        <tr>
+            <td>Camera-Ready Deadline</td>
+            <td>July 1, 2024</td>
+        </tr>
+        <tr>
+            <td>Workshop Date</td>
+            <td>August 16th, 2024</td>
+        </tr>
+    </table>
+</div>
 <h2> Keynote Speakers </h2>
 <img class="organiser-img" src='/assets/keynotes/angel.jpg'>
 <div class="organiser-name" style="text-align: center;"> <a href="https://ie.unc.edu/people/hsu/">Angel Hsu</a> <br> <p class='speaker-affiliation'> Dr. Angel Hsu is an Assoicate Professor of Public Policy and the Environment at UNC-Chapel Hill. She is the founder and director of the Data-Driven EnviroLab. Her research explores the intersection of science and policy and the use of data-driven approaches to understand environmental sustainability, particularly for climate change and energy, urbanization and air quality. Her research applies data from satellite remote sensing and other spatially-explicit sources to evaluate environmental policy performance. She was a contributing author to the IPCC 6th Assessment Report and a nominated expert for the forthcoming IPCC Special Report on Cities. She has a Ph.D. in Environmental Policy from Yale University and was formerly an Assistant Professor of Environmental Studies at Yale-NUS College in Singapore.</p></div>
