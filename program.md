@@ -5,7 +5,8 @@ subtitle:
 ---
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Program </h1>
 
-The program will consist of posters and presentations based on the submitted papers. <br><br> 
+To be determined. Please check out our <a href="https://nlp4climate.github.io/program/">ACL 2024 Workshop's Program</a>.
+<!-- The program will consist of posters and presentations based on the submitted papers. <br><br> 
 Additionally, we invited four speakers actively working at the intersection climate change and NLP, and asked them to give a presentation about their perspective on this intersection. These speakers are (ordered alphabetically).
 
 <img class="organiser-img" src='/assets/keynotes/angel.jpg'>
@@ -134,4 +135,4 @@ Additionally, we invited four speakers actively working at the intersection clim
   </tr>
 </table>
 
-</div>
+</div> -->

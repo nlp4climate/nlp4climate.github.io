@@ -8,7 +8,7 @@ subtitle:
 
 <h2>Scope</h2>
 
-<b>Deadline extended to May 24th AOE!!</b>
+<b>TBD. Following shows <a href="https://nlp4climate.github.io/callforpapers/">the CoP of our 2024 Workshop</a></b>
 
 This workshop is dedicated to explore the intersection of Natural Language Processing (NLP) and climate change. The workshop's aim is to discuss how NLP methods can be incorporated in climate change science and climate change action.
 

@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: ClimateNLP 2024
+title: ClimateNLP 2025
 
 # Your name to show in the footer
-author: The organizing comitee
+author: The organizing committee
 footerinfo:  The website modified from larel-workshop.github.io
 
 ###############################################
@@ -25,7 +25,7 @@ navbar-links:
   PROGRAM: "program"
   CALL FOR PAPERS: "callforpapers"
   SUBMISSION GUIDE: "submissionguide"
-  PAPERS: "papers"
+#  PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
@@ -54,11 +54,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "nlp4climatechange@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
-  twitter: climate-nlp
+  twitter: https://x.com/Climate_NLP
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
