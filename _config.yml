@@ -25,8 +25,8 @@ navbar-links:
   PROGRAM: "program"
   CALL FOR PAPERS: "callforpapers"
   SUBMISSION GUIDE: "submissionguide"
-  PAST WORKSHOPS: 
-    CLIMATENLP 2024: "climatenlp2024"
+  WORKSHOPS:
+    - CLIMATENLP 2024: "climatenlp2024"
 #  PAPERS: "papers"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
