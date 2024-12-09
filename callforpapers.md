@@ -23,13 +23,14 @@ For more information, please refer to the workshop website:
 
 
 <h2>Submission Site</h2>
-[https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ClimateNLP)
+TBD (will be openreview)
 
 
 We invite long and short papers from Academia, Industry, NGOs and other stakeholders. See the submission guide for more information!
 
 <h2>Topics of Interest</h2>
 We highlight some topics we think might be of interest. However, this is not meant to be an exhaustive list, and we welcome submissions covering other topics as well! A more detailed list and references can be found on the workshop website.
+- All work similar in topics and scope to papers published in the <a href="https://aclanthology.org/volumes/2024.climatenlp-1/">ClimateNLP 2024 workshop</a>.
 - Detection and analysis of Environmental Claims
 - QA-systems for Climate Change related Information
 - Long Document Analysis of relevant documents
