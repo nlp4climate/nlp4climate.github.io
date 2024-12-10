@@ -44,5 +44,5 @@ We highlight some topics we think might be of interest. However, this is not mea
 - Automated knowledge graph creation for climate policy texts
 - Analysis of climate-related corporate disclosures with NLP
 
-Please contact the organizers if you have any questions, or if you're interested in presenting accepted ACL 2024 findings papers in our workshop!
+Please contact the organizers if you have any questions, or if you're interested in presenting accepted ACL findings papers or other relevant work in our workshop!
 
