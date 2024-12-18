@@ -8,29 +8,27 @@ subtitle:
 
 <h2>Scope</h2>
 
-<b>TBD. Following shows <a href="https://nlp4climate.github.io/callforpapers/">the CoP of our 2024 Workshop</a></b>
-
-This workshop is dedicated to explore the intersection of Natural Language Processing (NLP) and climate change. The workshop's aim is to discuss how NLP methods can be incorporated in climate change science and climate change action.
-
-The importance of addressing climate change has been fully adopted by the scientific community. Climate change is reflected to global, national, and local political discussions, corporate reporting and all sectors of society. Although there is a vast amount of textual data and challenges around climate change, there is only limited amounts of work addressing these with NLP methods. Therefore, this workshop’s objective is to fill this gap and to provide a platform for researchers and practitioners (as well as policymakers and other stakeholders) keen on contributing to the intersection of NLP and climate change. 
-
-The workshop aims to shed light on these unique challenges and opportunities for applying NLP techniques to combat climate change. We believe NLP has the potential to support faster and scaleable climate mitigation and adaptation action considerably, and ClimateNLP provides a platform to foster discussions about NLP applications in this domain.
+This workshop series is dedicated to exploring the intersection of Natural Language Processing (NLP) and climate change. The workshop aims to discuss how NLP methods can be incorporated in climate change science and climate change action.
+The importance of addressing climate change has been fully adopted by the scientific community. Climate change is reflected in global, national, and local political discussions, corporate reporting, and all sectors of society – resulting in vast amounts of textual data. Despite all that data and potential applications to help mitigate and adapt to climate change, we believe NLP methods to tackle climate change are under-developed. Therefore, the objective of this workshop series is to provide a platform for researchers and practitioners (as well as policymakers and other stakeholders) keen on contributing to the intersection of NLP and climate change.
+The workshop series aims to shed light on these unique challenges and opportunities for applying NLP techniques to combat climate change. We believe NLP has the potential to support climate mitigation and adaptation action in a way that is considerably faster and more scalable, and ClimateNLP provides a platform to foster discussions about NLP applications in this domain.
 
 
 <h2>More Info</h2>
+
 For more information, please refer to the workshop website:
 [https://nlp4climate.github.io/](https://nlp4climate.github.io/)
 
 
 <h2>Submission Site</h2>
-TBD (will be openreview)
 
+[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP)
 
 We invite long and short papers from Academia, Industry, NGOs and other stakeholders. See the submission guide for more information!
 
 <h2>Topics of Interest</h2>
+
 We highlight some topics we think might be of interest. However, this is not meant to be an exhaustive list, and we welcome submissions covering other topics as well! A more detailed list and references can be found on the workshop website.
-- All work similar in topics and scope to papers published in the <a href="https://aclanthology.org/volumes/2024.climatenlp-1/">ClimateNLP 2024 workshop</a>.
+- All work similar (in topics and scope) to papers published in the <a href="https://aclanthology.org/volumes/2024.climatenlp-1/">first ClimateNLP 2024 workshop</a>.
 - Detection and analysis of Environmental Claims
 - QA-systems for Climate Change related Information
 - Long Document Analysis of relevant documents
