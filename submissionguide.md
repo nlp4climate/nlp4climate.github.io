@@ -14,7 +14,8 @@ We invite authors to submit long and short papers with unpublished, original wor
 
 
 <h2>Submission Site</h2>
-TBA
+
+[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP)
 
 <h2 id="dates">Important Dates</h2>
 
