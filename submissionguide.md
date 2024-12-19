@@ -10,7 +10,7 @@ subtitle:
 
 Papers must follow the ACL format and conform to the ACL 2025 <a href="https://acl-org.github.io/ACLPUB/formatting.html"> Submission Guidelines</a>. Paper submission has to be done through openreview.
 
-We invite authors to submit long and short papers with unpublished, original work. Submissions will be reviewed in a double-blind peer review process, thus it is important to only submit anonymzed papers! Authors of accepted papers will be given a platform to present their work at the workshop, either as a talk or a poster. All accepted papers, which have been submitted as arxival, will be published in the workshop proceedings (proceedings from previous years can be found in the ACL Anthology). 
+We invite authors to submit long and short papers with unpublished, original work. Submissions will be reviewed in a double-blind peer review process, thus it is important to only submit anonymzed papers! Authors of accepted papers will be given a platform to present their work at the workshop, either as a talk or a poster. All accepted papers, which have been submitted as archival, will be published in the workshop proceedings (see for example the [ClimateNLP 2024 proceedings](https://aclanthology.org/volumes/2024.climatenlp-1/)).
 
 
 <h2>Submission Site</h2>
