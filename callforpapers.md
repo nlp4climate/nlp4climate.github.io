@@ -15,8 +15,10 @@ The workshop series aims to shed light on these unique challenges and opportunit
 
 <h2>More Info</h2>
 
-For more information, please refer to the workshop website:
+For more information and deadlines, please refer to the workshop website:
 [https://nlp4climate.github.io/](https://nlp4climate.github.io/)
+
+More information on formatting instructions etc. can be found in our [https://nlp4climate.github.io/submissionguide/](submission guide).
 
 
 <h2>Submission Site</h2>
