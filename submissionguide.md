@@ -30,16 +30,20 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
   </thead>
   <tbody>
      <tr>
-      <td>Paper Submission Deadline</td>
-      <td>preliminary date is March 1st, 2025 AOE</td>
+      <td>Direct Paper Submission Deadline</td>
+      <td>March 1st, 2025 AOE</td>
+    </tr>
+     <tr>
+      <td>Pre-reviewed (ARR) Submission Deadline</td>
+      <td>March 25, 2025</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
-      <td>preliminary date is April 3rd, 2025 AOE</td>
+      <td>April 17th, 2025 AOE</td>
     </tr>
     <tr>
       <td>Camera-ready submissions due</td>
-      <td>preliminary date is May 2nd, 2025 AOE</td>
+      <td>May 16th, 2025 AOE</td>
     </tr>
     <tr>
       <td>Workshop Dates</td>
