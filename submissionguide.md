@@ -35,7 +35,7 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
     </tr>
      <tr>
       <td>Pre-reviewed (ARR) Submission Deadline</td>
-      <td>March 25, 2025</td>
+      <td>March 25th, 2025</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
