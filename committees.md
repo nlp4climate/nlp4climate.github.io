@@ -9,7 +9,7 @@ subtitle:
   <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/ruiran.JPG'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://ruiransu.github.io/"> Alba (Ruiran) Sun</a> <br> <p class='speaker-affiliation'> Unversity of Oxford</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://ruiransu.github.io/"> Alba (Ruiran) Su</a> <br> <p class='speaker-affiliation'> Unversity of Oxford</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/alok.jpg'>
