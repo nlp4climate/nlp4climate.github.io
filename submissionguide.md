@@ -31,7 +31,7 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
   <tbody>
      <tr>
       <td>Direct Paper Submission Deadline</td>
-      <td>March 1st, 2025 AOE</td>
+      <td>extended to March 5th, 2025 AOE</td>
     </tr>
      <tr>
       <td>Pre-reviewed (ARR) Submission Deadline</td>
