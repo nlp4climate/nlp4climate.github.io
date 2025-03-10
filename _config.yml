@@ -25,6 +25,7 @@ navbar-links:
   PROGRAM: "program"
   CALL FOR PAPERS: "callforpapers"
   SUBMISSION GUIDE: "submissionguide"
+  CALL FOR SPONSERSHIP: "callforsponsorship"
   WORKSHOPS:
     - ACL 2024: "climatenlp2024"
     
