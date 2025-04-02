@@ -35,11 +35,11 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
     </tr>
      <tr>
       <td>Pre-reviewed (ARR) Submission Deadline</td>
-      <td>April 10th, 2025 AOE</td>
+      <td>April 18th, 2025 AOE</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
-      <td>April 17th, 2025 AOE</td>
+      <td>April 21st, 2025 AOE</td>
     </tr>
     <tr>
       <td>Camera-ready submissions due</td>
