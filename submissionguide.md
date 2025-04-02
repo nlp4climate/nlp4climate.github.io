@@ -13,9 +13,13 @@ Papers must follow the ACL format and conform to the ACL 2025 <a href="https://a
 We invite authors to submit long and short papers with unpublished, original work. Submissions will be reviewed in a double-blind peer review process, thus it is important to only submit anonymzed papers! Authors of accepted papers will be given a platform to present their work at the workshop, either as a talk or a poster. All accepted papers, which have been submitted as archival, will be published in the workshop proceedings (see for example the [ClimateNLP 2024 proceedings](https://aclanthology.org/volumes/2024.climatenlp-1/)).
 
 
-<h2>Submission Site</h2>
+<h2>Submission Site Direct Submissions</h2>
 
 [https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP)
+
+<h2>Submission Site ARR Submissions</h2>
+
+[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment)
 
 <h2 id="dates">Important Dates</h2>
 
