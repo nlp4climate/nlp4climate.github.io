@@ -21,6 +21,10 @@ We invite authors to submit long and short papers with unpublished, original wor
 
 [https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment)
 
+<h2>Camera-ready Version</h2>
+
+Please make sure that the camera-ready versions are not anonymized and comply with the ACL format checker [https://github.com/acl-org/aclpubcheck](https://github.com/acl-org/aclpubcheck).
+
 <h2 id="dates">Important Dates</h2>
 
 Most of these dates (apart from the workshop date) are preliminary, and might be still subject to change.
@@ -47,11 +51,11 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
     </tr>
     <tr>
       <td>Camera-ready submissions due</td>
-      <td>May 16th, 2025 AOE</td>
+      <td>May 21st, 2025 AOE</td>
     </tr>
     <tr>
       <td>Workshop Dates</td>
-      <td>July 31st or August 1st, 2025</td>
+      <td>July 31st, 2025</td>
     </tr>
   </tbody>
 </table>
