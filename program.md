@@ -6,11 +6,18 @@ subtitle:
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Program </h1>
 
 <h2> Keynote Speakers </h2>
+<img class="organiser-img" src='/assets/keynotes/naomi_oreskes.jpg'>
+<div class="organiser-name" style="text-align: center;"> <a href="https://histsci.fas.harvard.edu/people/naomi-oreskes">Naomi Oreskes</a>
+  <div class="speaker-affiliation" style="margin-top: 8px;">
+    <p>Naomi Oreskes is Henry Charles Lea Professor of the History of Science and Affiliated Professor of Earth and Planetary Sciences at Harvard University. A world-renowned earth scientist, historian and public speaker, she is the author of the best-selling book, Merchants of Doubt (2010) and a leading voice on the role of science in society, the reality of anthropogenic climate change, and the role of disinformation in blocking climate action.</p>
+  </div>
+</div>
+
 <img class="organiser-img" src='/assets/keynotes/frida.jpg'>
 <div class="organiser-name" style="text-align: center;">
   <a href="https://webbdagarna.se/talare/frida-berry-eklund/">Frida Berry Eklund</a>
   <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Frida Berry Eklund is an author, speaker, and freelance climate specialist focused on advocacy and political influence. She has over 15 years of experience working with climate issues at various levels, including with the aid organization Oxfam International, the PR agency Westander, and the non-profit organization Våra barns klimat (“Our Children’s Climate”).</p>
+    <p>Frida Berry Eklund is a Swedish climate communications specialist, author, and public speaker with close to 20 years of experience in climate advocacy. She is the co-founder of the citizen platform Klimatkollen—a proud recipient of Google.org Tech for Social Good—and the global parent-led movement Our Kids’ Climate. Frida is one of Sweden’s EU Climate Pact Ambassadors and her acclaimed book Talk to Children About Climate (Natur & Kultur, 2020) has helped shape the conversation on how to support children in the climate crisis. Frida’s work focuses on impactful climate communication and mobilizing citizens for systemic change—through building AI för climate transparency. Frida has worked internationally with organizations such as Oxfam and the Global Campaign for Climate Action and has been recognized as one of Sweden’s most influential voices in sustainability.</p>
   </div>
 </div>
  
@@ -27,13 +34,6 @@ subtitle:
 <div class="organiser-name" style="text-align: center;"> <a href="https://aprigf.tw/speakers/ruth-schmidt/">Ruth Schmidt</a>
  <div class="speaker-affiliation" style="margin-top: 8px;">
     <p>Dr. Ruth Schmidt’s background as a microbial ecologist turned data scientist provides a unique perspective on the intersection of AI and sustainability. As an advisor for AI at the German Corporation for International Cooperation (GIZ), she plays a pivotal role in promoting an open, inclusive, and sustainable approach to AI on an international level. Her leadership in research projects focusing on sustainable solutions for agriculture, food security, and climate change aligns with the session’s emphasis on AI use cases for local needs, including SDGs, climate change, and rural innovation. Dr. Schmidt’s experience in translating science into policy action and her consultancy work for organizations such as IUCN and IFAD underscore her ability to connect scientific research with practical policy applications, making her contributions highly relevant to the session.</p>
-  </div>
-</div>
-
-<img class="organiser-img" src='/assets/keynotes/naomi_oreskes.jpg'>
-<div class="organiser-name" style="text-align: center;"> <a href="https://histsci.fas.harvard.edu/people/naomi-oreskes">Naomi Oreskes</a>
-  <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Naomi Oreskes is Henry Charles Lea Professor of the History of Science and Affiliated Professor of Earth and Planetary Sciences at Harvard University. A world-renowned earth scientist, historian and public speaker, she is the author of the best-selling book, Merchants of Doubt (2010) and a leading voice on the role of science in society, the reality of anthropogenic climate change, and the role of disinformation in blocking climate action.</p>
   </div>
 </div>
 
