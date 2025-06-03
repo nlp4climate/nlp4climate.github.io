@@ -3,8 +3,8 @@ layout: page
 title: 
 subtitle: 
 ---
-<h1 style="text-align:center; margin-bottom:20pt; !important"> Program </h1>
-
+<h1 style="text-align:center; margin-bottom:20pt; !important">Tentative Program </h1>
+<br>
 <h2> Keynote Speakers </h2>
 <img class="organiser-img" src='/assets/keynotes/naomi.jpg'>
 <div class="organiser-name" style="text-align: center;"> <a href="https://histsci.fas.harvard.edu/people/naomi-oreskes">Naomi Oreskes</a>
