@@ -120,7 +120,7 @@ subtitle:
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Panel Discussion 2 - Future of Research in ClimateNLP: Christopher D. Manning, Markus Leippold, Peter Henderson</td>
+    <td>Question-Guided Open Discussion: Needs of ClimateNLP</td>
   </tr>
   <tr>
     <td>3:00 pm</td>
@@ -145,15 +145,15 @@ subtitle:
   <tr>
     <td>4:30 pm</td>
     <td>
-      Question-Guided Group Discussions: Needs of ClimateNLP
+      Panel Discussion 2 - Future of Research in ClimateNLP with Markus Leippold, Christopher D. Manning, Peter Henderson
     </td>
   </tr>
   <tr>
     <td>5:15 pm</td>
-    <td>Closing Remarks</td>
+    <td>Closing Remarks by Markus Leippold</td>
   </tr>
   <tr>
-    <td>5:30 pm</td>
+    <td>5:45 pm</td>
     <td>THE END</td>
   </tr>
 </table>
