@@ -23,10 +23,10 @@ footerinfo:  The website modified from larel-workshop.github.io
 navbar-links:
   COMMITTEES: "committees"
   PROGRAM: "program"
-  CALLS:
-    - CALL FOR PAPERS: "callforpapers"
-    - SUBMISSION GUIDE: "submissionguide"
-    - CALL FOR SPONSERSHIP: "callforsponsorship"
+  CALLS AND GUIDELINES:
+    - Call for Papers: "callforpapers"
+    - Submission Guide: "submissionguide"
+    - Call for Sponsorship: "callforsponsorship"
   WORKSHOPS:
     - ACL 2024: "climatenlp2024"
     
