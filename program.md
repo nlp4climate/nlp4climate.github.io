@@ -60,11 +60,11 @@ subtitle:
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Oral Paper 1</td>
+    <td>Oral Paper 1: Judging It, Washing It: Scoring and Greenwashing Corporate Climate Disclosures using Large Language Models</td>
   </tr>
   <tr>
     <td>9:45 am</td>
-    <td>Oral Paper 2</td>
+    <td>Oral Paper 2: Applying the Character-Role Narrative Framework with LLMs to Investigate Environmental Narratives in Scientific Editorials and Tweets</td>
   </tr>
   <tr>
     <td>10:00 am</td>
@@ -112,11 +112,11 @@ subtitle:
   </tr>
   <tr>
     <td>2:00 pm</td>
-    <td>Oral Paper 1</td>
+    <td>Oral Paper 3: Biodiversity ambition analysis with Large Language Models</td>
   </tr>
   <tr>
     <td>2:15 pm</td>
-    <td>Oral Paper 2</td>
+    <td>Oral Paper 4: Transforming adaptation tracking: benchmarking Transformer-based NLP approaches to retrieve adaptation-relevant information from climate policy text</td>
   </tr>
   <tr>
     <td>2:30 pm</td>
