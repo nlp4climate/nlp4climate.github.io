@@ -22,19 +22,19 @@ subtitle:
   </div>
 </div>
  
-<img class="organiser-img" src='/assets/keynotes/emily.JPG'>
+<img class="organiser-img" src='/assets/keynotes/harrison-pim.jpg'>
 <div class="organiser-name" style="text-align: center;"> 
-<a href="https://www.emilykormanyos.com/">Emily Kormanyos</a>
+<a href="https://harrisonpim.com/">Harrsion Pim</a>
 <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Dr. Emily Kormanyos is a data scientist and researcher in sustainable finance at Deutsche Bundesbank, she focuses on bridging the gap between academic research and data science for a more sustainable and robust financial system. Her research interests include  research and innovative data generation in the fields of (sustainable) finance, machine learning, deep learning, and (explainable) AI. </p>
+    <p>Harrison Pim is a senior data scientist with a background in computational physics and museums/libraries. At Climate Policy Radar, his work covers machine learning, information retrieval, and knowledge graphs. </p>
   </div>
 </div>
 
  
-<img class="organiser-img" src='/assets/keynotes/ruth.jpg'>
-<div class="organiser-name" style="text-align: center;"> <a href="https://aprigf.tw/speakers/ruth-schmidt/">Ruth Schmidt</a>
+<img class="organiser-img" src='/assets/keynotes/Leippold_Portrait.jpg'>
+<div class="organiser-name" style="text-align: center;"> <a href="https://www.df.uzh.ch/en/people/professor/leippold.html">Ruth Schmidt</a>
  <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Dr. Ruth Schmidt’s background as a microbial ecologist turned data scientist provides a unique perspective on the intersection of AI and sustainability. As an advisor for AI at the German Corporation for International Cooperation (GIZ), she plays a pivotal role in promoting an open, inclusive, and sustainable approach to AI on an international level. Her leadership in research projects focusing on sustainable solutions for agriculture, food security, and climate change aligns with the session’s emphasis on AI use cases for local needs, including SDGs, climate change, and rural innovation. Dr. Schmidt’s experience in translating science into policy action and her consultancy work for organizations such as IUCN and IFAD underscore her ability to connect scientific research with practical policy applications, making her contributions highly relevant to the session.</p>
+    <p>Markus Leippold is Chair in Financial Engineering at the University of Zurich and a Senior Chair at the Swiss Finance Institute, while also serving as a part-time Research Scientist at Google DeepMind and Associated Research Fellow at the University of Oxford. He holds a Ph.D. in Economics and Finance from the University of St. Gallen and has published research in journals including the Journal of Financial Economics, Review of Financial Studies, Annals of Statistics, and Management Science, with his work in asset pricing and risk management receiving awards from organizations such as GRASFI, EFMA, INQUIRE Europe, the German Finance Association, and RISK Magazine. His recent research focuses on the intersection of artificial intelligence, natural language processing, and climate finance, developing tools like climateBERT (a climate-focused language model), chatClimate (a conversational AI platform), and Climinator (an automated fact-checking system), with publications at conferences including ACL, EMNLP, and ICML. Since 2024, he co-organizes the "NLP meets Climate" workshop at ACL, and in 2025, he co-founded the Sustainable and Resilient Economy AI Lab "sureal.ai" at the University of Zurich.</p>
   </div>
 </div>
 
