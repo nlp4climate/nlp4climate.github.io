@@ -32,7 +32,7 @@ subtitle:
 
  
 <img class="organiser-img" src='/assets/keynotes/Leippold_Portrait.jpg'>
-<div class="organiser-name" style="text-align: center;"> <a href="https://www.df.uzh.ch/en/people/professor/leippold.html">Ruth Schmidt</a>
+<div class="organiser-name" style="text-align: center;"> <a href="https://www.df.uzh.ch/en/people/professor/leippold.html">Markus Leippold</a>
  <div class="speaker-affiliation" style="margin-top: 8px;">
     <p>Markus Leippold is Chair in Financial Engineering at the University of Zurich and a Senior Chair at the Swiss Finance Institute, while also serving as a part-time Research Scientist at Google DeepMind and Associated Research Fellow at the University of Oxford. He holds a Ph.D. in Economics and Finance from the University of St. Gallen and has published research in journals including the Journal of Financial Economics, Review of Financial Studies, Annals of Statistics, and Management Science, with his work in asset pricing and risk management receiving awards from organizations such as GRASFI, EFMA, INQUIRE Europe, the German Finance Association, and RISK Magazine. His recent research focuses on the intersection of artificial intelligence, natural language processing, and climate finance, developing tools like climateBERT (a climate-focused language model), chatClimate (a conversational AI platform), and Climinator (an automated fact-checking system), with publications at conferences including ACL, EMNLP, and ICML. Since 2024, he co-organizes the "NLP meets Climate" workshop at ACL, and in 2025, he co-founded the Sustainable and Resilient Economy AI Lab "sureal.ai" at the University of Zurich.</p>
   </div>
