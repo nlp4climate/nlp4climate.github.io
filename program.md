@@ -88,7 +88,7 @@ subtitle:
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrsion Pim</td>
+    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrison Pim, Anne Sietsma</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:00 pm</td>
