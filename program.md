@@ -25,7 +25,7 @@ subtitle:
 <img class="organiser-img" src='/assets/keynotes/harrison-pim.jpg'>
 <img class="organiser-img" src='/assets/keynotes/Portrait Square.jpeg'>
 <div class="organiser-name" style="text-align: center;"> 
-<a href="https://harrisonpim.com/">Harrsion Pim</a> & <a href="https://www.climatepolicyradar.org/anne">Anne Sietsma</a>
+<a href="https://harrisonpim.com/">Harrison Pim</a> & <a href="https://www.climatepolicyradar.org/anne">Anne Sietsma</a>
 <div class="speaker-affiliation" style="margin-top: 8px;">
     <p>Harrison Pim is a senior data scientist with a background in computational physics and museums/libraries. At Climate Policy Radar, his work covers machine learning, information retrieval, and knowledge graphs. </p>
     <p>Anne Sietsma is a policy officer at Climate Policy Radar focussed on climate justice. He completed a PhD and postdoc on AI applications to track progress in climate change adaptation. His work centres around interdisciplinary approaches and NLP methods for policy analysis. </p>
@@ -86,11 +86,11 @@ subtitle:
   </tr>
   <tr>
     <td>11:05 am</td>
-    <td>Keynote Speech 2: Harrsion Pim</td>
+    <td>Keynote Speech 2: Harrison Pim & Anne Sietsma</td>
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrison Pim, Anne Sietsma</td>
+    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrison Pim</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:00 pm</td>
