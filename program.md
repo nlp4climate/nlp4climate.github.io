@@ -84,11 +84,11 @@ subtitle:
   </tr>
   <tr>
     <td>11:05 am</td>
-    <td>Keynote Speech 2: Emily Kormanyos</td>
+    <td>Keynote Speech 2: Harrsion Pim</td>
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td>Panel Discussion 1 - ClimateNLP in practice: Emily Kormanyos, Frida Berry Eklund, Ruth Schmidt</td>
+    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrsion Pim</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:00 pm</td>
@@ -104,7 +104,7 @@ subtitle:
   </tr>
   <tr>
     <td>1:35 pm</td>
-    <td>Keynote Speech 3: Ruth Schmidt</td>
+    <td>Keynote Speech 3: Markus Leippold</td>
   </tr>
   <tr>
     <td>2:00 pm</td>
