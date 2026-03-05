@@ -13,7 +13,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/gaku.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="gaku@stanford.edu">Gaku Morio</a> <br> <p class='speaker-affiliation'> Stanford University</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/gaku-morio-80b8b4297/">Gaku Morio</a> <br> <p class='speaker-affiliation'> Hitachi, Ltd</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/jingwei.jpg'>
@@ -39,7 +39,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/aida.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="#">Aida Usmanova</a> <br> <p class='speaker-affiliation'>  Leuphana University of Lüneburg</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://aidausmanova.github.io/index.html">Aida Usmanova</a> <br> <p class='speaker-affiliation'>  Leuphana University of Lüneburg</p></div>
     </div>
   </div>
 </div>
