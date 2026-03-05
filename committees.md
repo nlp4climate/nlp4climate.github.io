@@ -8,20 +8,6 @@ subtitle:
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/ruiran.JPG'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://ruiransu.github.io/"> Alba (Ruiran) Su</a> <br> <p class='speaker-affiliation'> Unversity of Oxford</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/alok.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://alokssingh.github.io/"> Alok Singh</a> <br> <p class='speaker-affiliation'> Unversity of Oxford</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/christopher.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.smithschool.ox.ac.uk/person/christophe-christiaen"> Christopher Manning</a> <br> <p class='speaker-affiliation'> Stanford University</p></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
       <img class="organiser-img" src='/assets/img/dominik.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://dominik-stammbach.github.io/">Dominik Stammbach</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
     </div>
@@ -42,10 +28,6 @@ subtitle:
       <img class="organiser-img" src='/assets/img/markus.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.bf.uzh.ch/en/people/professor/leippold.html">Markus Leippold</a> <br> <p class='speaker-affiliation'> University of Zurich</p></div>
     </div>
-    <div class="col-sm">
-    	<img class="organiser-img" src='/assets/img/peter.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.peterhenderson.co/">Peter Henderson</a> <br> <p class='speaker-affiliation'>  Princeton University</p></div>
-    </div>
   </div>
   <div class="row">
     <div class="col-sm">
@@ -57,8 +39,8 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/tobias-schimanski-964077182/">Tobias Schimanski</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/veruskam.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.linkedin.com/in/veruska-muccione/?originalSubdomain=ch">Veruska Muccione</a> <br> <p class='speaker-affiliation'>  University of Zurich</p></div>
+      <img class="organiser-img" src='/assets/img/aida.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="#">Aida Usmanova</a> <br> <p class='speaker-affiliation'>  Leuphana University of Lüneburg</p></div>
     </div>
     <!-- <div class="col-sm">
       <img src=''>
