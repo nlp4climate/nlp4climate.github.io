@@ -9,7 +9,7 @@ subtitle:
 
 ClimateNLP 2025 happens at ACL 2025, Vienna, where 21 high-quality submissions were presented. See [[Openreview]](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP#tab-accept) and [[Proceeding]](https://aclanthology.org/2025.climatenlp-1.0/).
 
-<h1 style="text-align:center; margin-bottom:20pt; !important">Tentative Program </h1>
+
 <br>
 <h2> Keynote Speakers </h2>
 <img class="organiser-img" src='/assets/keynotes/naomi.jpg'>
