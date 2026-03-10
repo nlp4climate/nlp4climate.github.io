@@ -16,11 +16,11 @@ We invite authors to submit long and short papers with unpublished, original wor
 <h2>Submission Site (TBD)</h2>
 <!-- <h2>Submission Site Direct Submissions</h2>
 
-[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP)
+[https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/ClimateNLP)
 
 <h2>Submission Site ARR Submissions</h2>
 
-[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP_ARR_Commitment)
+TBA
 
 <h2>Camera-ready Version</h2>
 
