@@ -21,14 +21,14 @@ For more information, deadlines, formatting instructions etc., please refer to o
 
 <h2>Submission Site</h2>
 
-[https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/ClimateNLP)
+[https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/ClimateNLP](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/ClimateNLP)
 
 We invite long and short papers from Academia, Industry, NGOs and other stakeholders. See the submission guide for more information!
 
 <h2>Topics of Interest</h2>
 
 We highlight some topics we think might be of interest. However, this is not meant to be an exhaustive list, and we welcome submissions covering other topics as well! A more detailed list and references can be found on the workshop website.
-- All work similar (in topics and scope) to papers published in the <a href="https://aclanthology.org/volumes/2024.climatenlp-1/">first ClimateNLP 2024 workshop</a>.
+- All work similar (in topics and scope) to papers published in the <a href="https://aclanthology.org/volumes/2024.climatenlp-1/">first ClimateNLP 2024 workshop</a> and the <a href="https://aclanthology.org/2025.climatenlp-1.0/">ClimateNLP 2025 proceedings</a>.
 - Detection and analysis of Environmental Claims
 - QA-systems for Climate Change related Information
 - Long Document Analysis of relevant documents
@@ -43,4 +43,3 @@ We highlight some topics we think might be of interest. However, this is not mea
 - Analysis of climate-related corporate disclosures with NLP
 
 Please contact the organizers if you have any questions, or if you're interested in presenting accepted ACL findings papers or other relevant work in our workshop!
-
