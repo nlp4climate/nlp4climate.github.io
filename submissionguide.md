@@ -42,10 +42,6 @@ Most of these dates (apart from the workshop date) are preliminary, and might be
       <td>July 15th, 2026 AOE</td>
     </tr>
     <tr>
-      <td>Author response and author-reviewer discussion</td>
-      <td>August 20th-25th, 2026 AOE</td>
-    </tr>
-    <tr>
       <td>Notification of acceptance</td>
       <td>September 1st, 2026 AOE</td>
     </tr>

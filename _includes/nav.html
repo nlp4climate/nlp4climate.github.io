@@ -3,7 +3,10 @@
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    <a class="navbar-brand cn-brand" href="{{ '' | absolute_url }}">
+      {%- if site.avatar -%}<img class="cn-brand-logo" alt="{{ site.title }} logo" src="{{ site.avatar | relative_url }}"/>{%- endif -%}
+      <span>{{ site.title }}</span>
+    </a>
   {%- endif -%}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,9 +43,9 @@
       {%- endif -%}
 
       <li class="nav-item">
-         <a class="nav-link" id="nav-search-link" href="#" title="Twitter" onclick="openURL('https://twitter.com/LaReL2022')">
+         <a class="nav-link" id="nav-twitter-link" href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter" target="_blank" rel="noopener">
             <span id="nav-twitter-icon" class="fab fa-twitter" ></span>
-            <span id="nav-twitter-text" onclick="openURL('https://twitter.com/LaReL2022')">Twitter</span>
+            <span id="nav-twitter-text">Twitter</span>
           </a>
         </li>
     </ul>
