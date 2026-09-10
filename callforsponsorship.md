@@ -6,7 +6,7 @@ subtitle:
 
 <h1 style="text-align:center; margin-bottom:20pt; !important">Call for Sponsorship</h1>
 
-We will host the third iteration of ClimateNLP at EMNLP 2026 in Budapest, Hungary on Oct. 28th or 29th, after having organized the first and second ClimateNLP at ACL 2024 and ACL 2025. The organizing committee includes researchers from Princeton University, ETH Zurich, the University of Zurich, and Leuphana University of Lüneburg, Hitachi, Ltd, and Climate Policy Radar. To ensure the sustainability of ClimateNLP, we are seeking sponsorships for this and future workshops.
+We will host the third iteration of ClimateNLP at EMNLP 2026 in Budapest, Hungary on Oct. 28th, after having organized the first and second ClimateNLP at ACL 2024 and ACL 2025. The organizing committee includes researchers from Princeton University, ETH Zurich, the University of Zurich, and Leuphana University of Lüneburg, Hitachi, Ltd, and Climate Policy Radar. To ensure the sustainability of ClimateNLP, we are seeking sponsorships for this and future workshops.
 
 This workshop is dedicated to discuss how Natural Language Processing can be incorporated in Climate Change science, and help mitigating or adapting to climate change. The workshop's primary objective is to provide a platform for researchers and practitioners (and policymakers and other stakeholders) interested in contributing to the intersection of NLP and climate change. The workshop aims to fill the gap in the existing literature and shed light on the unique challenges, opportunities, and potential methods for applying NLP techniques in helping to combat climate change.
 
