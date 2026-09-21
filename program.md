@@ -3,45 +3,33 @@ layout: page
 title: 
 subtitle: 
 ---
-<h1 style="text-align:center; margin-bottom:20pt; !important">TBD. Program of Laster Year's ClimateNLP</h1>
+<h1 style="text-align:center; margin-bottom:20pt; !important">Program</h1>
 
-
-
-ClimateNLP 2025 happens at ACL 2025, Vienna.
+ClimateNLP 2026 happens at EMNLP 2026, Budapest, on Oct 28th.
 
 <br>
 <h2> Keynote Speakers </h2>
-<img class="organiser-img" src='/assets/keynotes/naomi.jpg'>
-<div class="organiser-name" style="text-align: center;"> <a href="https://histsci.fas.harvard.edu/people/naomi-oreskes">Naomi Oreskes</a>
+<img class="organiser-img" src='/assets/keynotes/chung-chi-chen.jpg'>
+<div class="organiser-name" style="text-align: center;"> Chung-Chi Chen
   <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Naomi Oreskes is the Henry Charles Lea Professor of the History of Science and Affiliated Professor of Earth and Planetary Sciences at Harvard University. She is an internationally renowned earth scientist, historian, and author of both scholarly and popular books and articles on the history of earth and environmental science, including most recently, Why Trust Science? (2019) and Science on a Mission: How Military Funding Shaped What We Do and Don’t Know about the Ocean (2021), which was awarded the Patrick Suppes Prize in the History of Science by the American Philosophical Society. Her opinion pieces have been published in leading media outlets around the globe, including The New York Times, The Washington Post, The Times (London), and the Frankfurter Allgemeine. In 2015, she wrote the Introduction to the Melville House edition of the Papal Encyclical on Climate Change and Inequality, Laudato Si. </p>
-    <p>Professor Oreskes is a leading voice on the reality on anthropogenic climate change and the history of efforts to undermine climate action. Her 2004 essay “The Scientific Consensus on Climate Change” (Science 306: 1686) has been widely cited, including in the Royal Society’s publication, “A Guide to Facts and Fictions about Climate Change," and in the Academy-award winning film, An Inconvenient Truth.  Her 2010 book with Erik M. Conway, Merchants of Doubt, has been translated into nine languages, sold over 100,000 copies, and made into a documentary film. She is an elected fellow of the Geological Society of America, the American Geophysical Union, the American Academy for the Advancement of Sciences, the American Academy of Arts and Sciences, and the American Philosophical Society. In 2018, she became a Guggenheim Fellow, and in 2019 was awarded the British Academy Medal for “her commitment to documenting the role of corporations in distorting scientific findings for political ends.” Her new book, with Erik Conway, is The Big Myth: How American Business Taught Us to Loath Government and Love the Free Market, published by Bloomsbury Press.  </p>
+    <p><i>National Institute of Informatics (NII), Japan</i></p>
+    <p>Chung-Chi Chen is an Assistant Professor at the National Institute of Informatics (NII), Japan, where he leads the Human-Agent Ally Lab. His research explores how natural language processing, large language models, and AI agents can support accountable decision-making in high-stakes domains. In the context of climate and sustainability, his work focuses on transforming corporate commitments into verifiable evidence through multilingual ESG analysis, promise verification, forward-looking statement assessment, and multimodal sustainability compliance auditing. He has led shared tasks on multilingual ESG and corporate promise verification at FinNLP, SemEval, and NTCIR. He is also the founder and Chair of ACL SIG-FinTech and a recipient of the ACM SIGIR Early Career Researcher Award. His broader research examines human-agent collaboration and the societal impacts of AI-mediated communication.</p>
   </div>
 </div>
 
-<img class="organiser-img" src='/assets/keynotes/frida.jpg'>
-<div class="organiser-name" style="text-align: center;">
-  <a href="https://webbdagarna.se/talare/frida-berry-eklund/">Frida Berry Eklund</a>
+<img class="organiser-img" src='/assets/keynotes/ramit-debnath.jpg'>
+<div class="organiser-name" style="text-align: center;"> Ramit Debnath
   <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Frida Berry Eklund is a Swedish climate communications specialist, author, and public speaker with close to 20 years of experience in climate advocacy. She is the co-founder of the citizen platform Klimatkollen—a proud recipient of Google.org Tech for Social Good—and the global parent-led movement Our Kids’ Climate. Frida is one of Sweden’s EU Climate Pact Ambassadors and her acclaimed book Talk to Children About Climate (Natur & Kultur, 2020) has helped shape the conversation on how to support children in the climate crisis. Frida’s work focuses on impactful climate communication and mobilizing citizens for systemic change—through building AI för climate transparency. Frida has worked internationally with organizations such as Oxfam and the Global Campaign for Climate Action and has been recognized as one of Sweden’s most influential voices in sustainability.</p>
-  </div>
-</div>
- 
-<img class="organiser-img" src='/assets/keynotes/harrison-pim.jpg'>
-<img class="organiser-img" src='/assets/keynotes/Portrait Square.jpeg'>
-<div class="organiser-name" style="text-align: center;"> 
-<a href="https://harrisonpim.com/">Harrison Pim</a> & <a href="https://www.climatepolicyradar.org/anne">Anne Sietsma</a>
-<div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Harrison Pim is a senior data scientist with a background in computational physics and museums/libraries. At Climate Policy Radar, his work covers machine learning, information retrieval, and knowledge graphs. </p>
-    <p>Anne Sietsma is a policy officer at Climate Policy Radar focussed on climate justice. He completed a PhD and postdoc on AI applications to track progress in climate change adaptation. His work centres around interdisciplinary approaches and NLP methods for policy analysis. </p>
+    <p><i>University of Cambridge</i></p>
+    <p>Ramit Debnath is an Associate Professor and Executive Director of the Centre for Human-Inspired AI (CHIA) at the University of Cambridge. His research focuses on human-centred AI, NLP and computational social science, with the broader aim of understanding global climate risks and ensuring societal benefit. His work spans applications in energy systems, environmental policy, digital misinformation, and climate action. He is the Founding Director of the Collective Intelligence &amp; Design Group and the climaTRACES lab (now Centre for Space, Earth and Energy), as well as Assistant Director of the Energy Policy Research Group (EPRG). A Fellow of Churchill College and a former Gates Cambridge Scholar, Dr Debnath holds visiting academic roles at Caltech and the Stanford Doerr School of Sustainability. His award-winning research regularly appears in top-tier journals and leading AI conferences, directly informing global policy through advisory roles with the UK Government and international research bodies.</p>
   </div>
 </div>
 
- 
-<img class="organiser-img" src='/assets/keynotes/Leippold_Portrait.jpg'>
-<div class="organiser-name" style="text-align: center;"> <a href="https://www.df.uzh.ch/en/people/professor/leippold.html">Markus Leippold</a>
- <div class="speaker-affiliation" style="margin-top: 8px;">
-    <p>Markus Leippold is Chair in Financial Engineering at the University of Zurich and a Senior Chair at the Swiss Finance Institute, while also serving as a part-time Research Scientist at Google DeepMind and Associated Research Fellow at the University of Oxford. He holds a Ph.D. in Economics and Finance from the University of St. Gallen and has published research in journals including the Journal of Financial Economics, Review of Financial Studies, Annals of Statistics, and Management Science, with his work in asset pricing and risk management receiving awards from organizations such as GRASFI, EFMA, INQUIRE Europe, the German Finance Association, and RISK Magazine. His recent research focuses on the intersection of artificial intelligence, natural language processing, and climate finance, developing tools like climateBERT (a climate-focused language model), chatClimate (a conversational AI platform), and Climinator (an automated fact-checking system), with publications at conferences including ACL, EMNLP, and ICML. Since 2024, he co-organizes the "NLP meets Climate" workshop at ACL, and in 2025, he co-founded the Sustainable and Resilient Economy AI Lab "sureal.ai" at the University of Zurich.</p>
+<img class="organiser-img" src='/assets/keynotes/maria-joao-sousa.jpg'>
+<div class="organiser-name" style="text-align: center;"> Maria João Sousa
+  <div class="speaker-affiliation" style="margin-top: 8px;">
+    <p><i>Climate Change AI</i></p>
+    <p>Dr. Maria João Sousa serves as Executive Director at Climate Change AI (CCAI), a global non-profit that empowers a global community of innovators, practitioners, and decision-makers to accelerate impactful research and deployment at the intersection of climate change and AI. Maria holds a PhD in Mechanical Engineering from Instituto Superior Técnico, Universidade de Lisboa in Portugal, where her research focused on cooperative aerial robotics and artificial intelligence for wildfire detection and monitoring systems. Maria was nominated for the UN Environment Young Champions of the Earth 2018 Prize for her project on decentralized intelligent sensor networks for fire detection and monitoring. She joined the CCAI core team in 2020, where she has collaborated on and spearheaded several flagship events of the organization such as the Summer School, the workshop series “Tackling Climate Change with Machine Learning” at leading AI conferences, e.g., ICML 2021, NeurIPS 2021, NeurIPS 2022 and AMLD 2024, and a global Innovation Grants program. She was a PiTech Startup Postdoc at Cornell Tech’s Runway Startup Postdoc Program and the Public Interest Technology Initiative.</p>
   </div>
 </div>
 
@@ -59,26 +47,18 @@ ClimateNLP 2025 happens at ACL 2025, Vienna.
   </tr>
   <tr>
     <td>9:05 am</td>
-    <td>Keynote Speech 1: Frida Berry Eklund</td>
+    <td>Keynote Speech 1: Beyond 2030: Turning Sustainability Commitments into Verifiable and Achievable Outcomes by Chung-Chi Chen, Assistant Professor at the National Institute of Informatics (NII)</td>
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Oral Presentation 1</td>
-  </tr>
-  <tr>
-    <td>9:30 am</td>
-    <td>Oral Paper 1: Judging It, Washing It: Scoring and Greenwashing Corporate Climate Disclosures using Large Language Models</td>
+    <td>Oral Paper 1: Improving Efficiency of Ternary Large Language Models through Pruning by Pietro Tropeano</td>
   </tr>
   <tr>
     <td>9:45 am</td>
-    <td>Oral Paper 2: Applying the Character-Role Narrative Framework with LLMs to Investigate Environmental Narratives in Scientific Editorials and Tweets</td>
-  </tr>
-  <tr>
-    <td>10:00 am</td>
     <td>Poster Session 1</td>
   </tr>
   <tr>
-    <td>10:45 am</td>
+    <td>10:30 am</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
@@ -91,50 +71,42 @@ ClimateNLP 2025 happens at ACL 2025, Vienna.
   </tr>
   <tr>
     <td>11:05 am</td>
-    <td>Keynote Speech 2: Harrison Pim & Anne Sietsma</td>
+    <td>Keynote Speech 2: Quantifying Climate Narratives, Public Sentiment, and Policy Reception via Computational Social Science by Ramit Debnath, Associate Professor and Executive Director of the Centre for Human-Inspired AI (CHIA) at the University of Cambridge</td>
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td>Panel Discussion 1 - ClimateNLP in practice: Frida Berry Eklund, Harrison Pim</td>
+    <td>Oral Paper 2: Ontology-Guided Query Expansion for Evidence Retrieval in ESRS E1 Climate Disclosures by Tatsuya Ishisaka</td>
+  </tr>
+  <tr>
+    <td>11:45 am</td>
+    <td>Panel Discussion on &ldquo;Future Directions for ClimateNLP&rdquo; with Chung-Chi Chen, Ramit Debnath, Maria João Sousa</td>
   </tr>
   <tr style='color:darkgray;'>
-    <td>12:00 pm</td>
+    <td>12:30 pm</td>
     <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>1:30 pm</td>
+    <td>2:00 pm</td>
     <td><b>Session 3</b></td>
   </tr>
   <tr>
-    <td>1:30 pm</td>
+    <td>2:00 pm</td>
     <td>Session 3 Introduction</td>
   </tr>
   <tr>
-    <td>1:35 pm</td>
-    <td>Keynote Speech 3: Markus Leippold</td>
-  </tr>
-  <tr>
-    <td>2:00 pm</td>
-    <td>Oral Presentation 2</td>
-  </tr>
-  <tr>
-    <td>2:00 pm</td>
-    <td>Oral Paper 3: Biodiversity ambition analysis with Large Language Models</td>
-  </tr>
-  <tr>
-    <td>2:15 pm</td>
-    <td>Oral Paper 4: Transforming adaptation tracking: benchmarking Transformer-based NLP approaches to retrieve adaptation-relevant information from climate policy text</td>
+    <td>2:05 pm</td>
+    <td>Keynote Speech 3: Public Interest Technology and Climate Change AI by Maria João Sousa, Executive Director at Climate Change AI (CCAI)</td>
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Question-Guided Open Discussion: Needs of ClimateNLP</td>
+    <td>Oral Paper 3: Retrieving Climate Change Adaptation Concepts from World Heritage Management Plans in the Netherlands by Nan Bai and Edgar Gironés</td>
   </tr>
   <tr>
-    <td>3:00 pm</td>
+    <td>2:45 pm</td>
     <td>Poster Session 2</td>
   </tr>
   <tr>
-    <td>3:45 pm</td>
+    <td>3:30 pm</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
@@ -147,20 +119,18 @@ ClimateNLP 2025 happens at ACL 2025, Vienna.
   </tr>
   <tr>
     <td>4:05 pm</td>
-    <td>Keynote Speech 4: Naomi Oreskes</td>
+    <td>Keynote Speech 4: TBA</td>
   </tr>
   <tr>
     <td>4:30 pm</td>
-    <td>
-      Panel Discussion 2 - Future of Research in ClimateNLP with Markus Leippold, Christopher D. Manning, Peter Henderson
-    </td>
+    <td>Oral Paper 4: Proportionate Responses: The Case for Small Language Models as Sustainable Expert Climate Policy Annotators by Jetske Bonenkamp</td>
   </tr>
   <tr>
-    <td>5:15 pm</td>
-    <td>Closing Remarks by Markus Leippold</td>
+    <td>4:45 pm</td>
+    <td>Closing Remarks by Markus Leippold, Professor at the University of Zurich</td>
   </tr>
   <tr>
-    <td>5:45 pm</td>
+    <td>5:00-5:30 pm</td>
     <td>THE END</td>
   </tr>
 </table>
