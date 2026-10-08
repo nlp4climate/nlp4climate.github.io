@@ -33,6 +33,14 @@ ClimateNLP 2026 happens at EMNLP 2026, Budapest, on Oct 28th.
   </div>
 </div>
 
+<img class="organiser-img" src='/assets/keynotes/nelly-bencomo.jpg'>
+<div class="organiser-name" style="text-align: center;"> Nelly Bencomo
+  <div class="speaker-affiliation" style="margin-top: 8px;">
+    <p><i>Durham University</i></p>
+    <p>Nelly Bencomo is a Professor in Computer Science at Durham University and an ACM Distinguished Speaker. Her research lies at the intersection of software engineering, artificial intelligence and decision-making under uncertainty, with a focus on trustworthy and adaptive AI-enabled systems. Her work has pioneered approaches to models@run.time and requirements@run.time and, more recently, has explored uncertainty-aware and information-driven adaptation, AI-assisted decision-making, digital twins, and the engineering and assurance of generative AI systems. Her current research includes AI-assisted legal reasoning and information retrieval, as well as digital infrastructure for understanding and responding to climate change. Through DART – Digital Arctic Twins, she has explored the role of digital twins in complex and changing environments.</p>
+  </div>
+</div>
+
 
 <h2> Program </h2>
 <div class='program-table' style='font-size: 10pt; width:100%;'>
@@ -119,7 +127,7 @@ ClimateNLP 2026 happens at EMNLP 2026, Budapest, on Oct 28th.
   </tr>
   <tr>
     <td>4:05 pm</td>
-    <td>Keynote Speech 4: TBA</td>
+    <td>Keynote Speech 4: When Retrieval Is Not Enough: Engineering Trustworthy AI for Climate Decision-Making by Nelly Bencomo, Professor at Durham University</td>
   </tr>
   <tr>
     <td>4:30 pm</td>
